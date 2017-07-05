@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace 函数
 {
 
-    class Program
+    class JackProject
     {
         static int Add(int var1,int var2)
         {
