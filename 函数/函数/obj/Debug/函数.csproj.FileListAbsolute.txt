@@ -4,6 +4,12 @@ D:\vsProjects\函数\函数\bin\Debug\函数.pdb
 D:\vsProjects\函数\函数\obj\Debug\函数.exe
 D:\vsProjects\函数\函数\obj\Debug\函数.pdb
 D:\vsProjects\函数\函数\obj\Debug\函数.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 D:\GitHub库\Jack\函数\函数\bin\Debug\函数.exe.config
 D:\GitHub库\Jack\函数\函数\obj\Debug\函数.exe
 D:\GitHub库\Jack\函数\函数\obj\Debug\函数.pdb
+=======
+D:\GitHub库\Rose\函数\函数\bin\Debug\函数.exe.config
+D:\GitHub库\Rose\函数\函数\obj\Debug\函数.exe
+D:\GitHub库\Rose\函数\函数\obj\Debug\函数.pdb
+>>>>>>> c583b828113da215dd3ec0fde4817a1dd9140574

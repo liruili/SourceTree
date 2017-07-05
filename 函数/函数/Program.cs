@@ -7,7 +7,11 @@ using System.Threading.Tasks;
 namespace 函数
 {
 
+<<<<<<< HEAD
     class JackProject
+=======
+    class RoseProject
+>>>>>>> c583b828113da215dd3ec0fde4817a1dd9140574
     {
         static int Add(int var1,int var2)
         {
