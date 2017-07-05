@@ -4,3 +4,6 @@ D:\vsProjects\函数\函数\bin\Debug\函数.pdb
 D:\vsProjects\函数\函数\obj\Debug\函数.exe
 D:\vsProjects\函数\函数\obj\Debug\函数.pdb
 D:\vsProjects\函数\函数\obj\Debug\函数.csprojResolveAssemblyReference.cache
+D:\GitHub库\Rose\函数\函数\bin\Debug\函数.exe.config
+D:\GitHub库\Rose\函数\函数\obj\Debug\函数.exe
+D:\GitHub库\Rose\函数\函数\obj\Debug\函数.pdb
